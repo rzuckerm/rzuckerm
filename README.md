@@ -1,4 +1,9 @@
+[![An image of @rzuckerm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rzuckerm)](https://holopin.io/@rzuckerm)
 ### Hi there 👋
+
+I'm a maintainer on these repos:
+- [Sample Programs in Every Language](https://github.adtran.com/TheRenegadeCoder/sample-programs)
+- [Sample Programs in Every Language Website](https://github.adtran.com/TheRenegadeCoder/sample-programs-website)
 
 <!--
 **rzuckerm/rzuckerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
