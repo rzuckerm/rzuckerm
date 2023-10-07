@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 I'm a maintainer on these repos:
-- [Sample Programs in Every Language](https://github.adtran.com/TheRenegadeCoder/sample-programs)
-- [Sample Programs in Every Language Website](https://github.adtran.com/TheRenegadeCoder/sample-programs-website)
+- [Sample Programs in Every Language](https://github.com/TheRenegadeCoder/sample-programs)
+- [Sample Programs in Every Language Website](https://github.com/TheRenegadeCoder/sample-programs-website)
 
 <!--
 **rzuckerm/rzuckerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
